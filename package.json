@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/noorfatima-22/local-tourism-website1/issues"
   },
-  "homepage": "https://github.com/noorfatima-22/local-tourism-website1#readme"
+  "homepage": "https://github.com/noorfatima-22/local-tourism-website1#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
 }
